@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Movix</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">About</string>
+    <string name="title_activity_main">Movix</string>
+    <string name="image_content_description">Movix_Logo</string>
+    <string name="create_account">Créer un compte</string>
+    <string name="email">Adresse email</string>
+    <string name="password">Mot de passe</string>
+    <string name="connect">Se connecter</string>
+    <string name="title_activity_login_display">Welcome</string>
+    <string name="title_accueil">Movix</string>
+    <string name="hint_mail">"Ici : L'adresse email de l'utilisateur"</string>
+    <string name="hint_pass">"Ici : Le mot de passe de l'utilisateur"</string>
+    <string name="email_format_error">"Le champs email ne correspond pas au format d'une adresse mail"</string>
+    <string name="email_or_password_empty">"L'adresse email et mot de passe sont obligatoires"</string>
+    <string name="search_hint">Search</string>
+
+    <string name ="pseudo">Pseudo</string>
+    <string name ="nom">Nom</string>
+
+
+    //bar task
+    <string name ="menu_search">rechercher</string>
+    //API_Key
+    <string name="tmdb_api_key">0d1d0cc3c4aec9ca1c2c8c9e781a7ef1</string>
+    //tmdb_search
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Search</string>
+    <string name="title_activity_imdbsearch_result">TMDBSearchResultActivity</string>
+
+    //activity_blank
+    <string name="action_settings">Popular Tv Series</string>
+    <string name="action_settings2">Popular Movies</string>
+    <string name="action_settings3">Upcoming Movies</string>
+    <string name="action_settings4">On the Air Tv</string>
+    <string name="action_settings5">Exit</string>
+    <string name="title_activity_movie_detail">Popular Movie</string>
+    <string name="large_text">
+        "Welcome on Movix !\n\n"
+        "The best apps in the world ! \n\n"
+        "Informations supplémentaires"
+    </string>
+
+
+//Form/Connexion
+    <string name ="alias">Pseudo</string>
+    <string name ="prenom">Prénom</string>
+    <string name ="login">Mail</string>
+    <string name ="age">Age</string>
+
+
+
+
+
+</resources>
